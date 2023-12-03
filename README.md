@@ -2,7 +2,7 @@
 
 ## Como utiliza a Calculadora?
 
-Para utilizá-la, acesse a pasta TARGET e dê dois cliques sobre o arquivo Calculadora_Launcher.jar. com isso, será executado e a calculadora será apresentada na tela. 
+Para utilizá-la, acesse a pasta DIST e dê dois cliques sobre o arquivo Calculadora_Launcher.jar. com isso, será executado e a calculadora será apresentada na tela. 
 
 ## C (LIMPA TUDO)
 
